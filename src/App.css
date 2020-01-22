@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.page {
+  background-color: white;
+  color: black;
+  font-family: 'Lato';
+  height: 100vh;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.project-container {
+  padding-top: 50px;
+}
+
+.applications {
+  padding-top: 20px;
+}
+
+.card-padding {
+  padding: 20px;
+}
+
+.card-project {
+  background-color: black;
+  color: white;
+  padding: 70px;
+  border-radius: 10px;
+  height: 190px;
+}
+
+.card-project:hover {
+  background-color: #ECEFF1;
+  color: black;
+}
+
+.jaff-modal {
+  position: fixed; 
+  z-index: 98; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4); 
+  font-family: 'Quicksand'
+}
+
+.jaff-modal-padding {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.modal-container {
+  padding: 20px;
+  background-color: white;
+  color: black;
+}
+
+.closebtndark{
+  color: black;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.closebtndark:hover {
+  color: #263238;
+}
+
+.project-description {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.button-grey{ 
+  background-color: #263238;
+  color: #ECEFF1;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.button-grey:hover {
+  background-color: #78909C;
+}
+
+.button-blue {
+  background-color: #0D47A1;
+  color: white;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.button-blue:hover {
+  background-color: #1565C0;
+}
+
+.button-padding {
+  padding: 20px;
+}
