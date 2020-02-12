@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "889f4718cedd8bcf215360b814e6a376",
+    "revision": "2fa45e1f1eaa763882a7a9a125cf560a",
     "url": "/jaffersyedweb/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jaffersyedweb/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "6487ee93326a333ae992",
-    "url": "/jaffersyedweb/static/css/main.b7446e9b.chunk.css"
+    "revision": "d5c7f7d4f16cd46b0c93",
+    "url": "/jaffersyedweb/static/css/main.841e1ca5.chunk.css"
   },
   {
     "revision": "a55362d5bdb40f880609",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jaffersyedweb/static/js/2.36d72854.chunk.js.LICENSE"
   },
   {
-    "revision": "6487ee93326a333ae992",
-    "url": "/jaffersyedweb/static/js/main.e66c77fe.chunk.js"
+    "revision": "d5c7f7d4f16cd46b0c93",
+    "url": "/jaffersyedweb/static/js/main.802ef443.chunk.js"
   },
   {
     "revision": "947b397f9a71d5099b46",
