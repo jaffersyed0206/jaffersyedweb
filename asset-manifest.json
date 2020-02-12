@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jaffersyedweb/static/css/main.841e1ca5.chunk.css",
-    "main.js": "/jaffersyedweb/static/js/main.802ef443.chunk.js",
-    "main.js.map": "/jaffersyedweb/static/js/main.802ef443.chunk.js.map",
+    "main.js": "/jaffersyedweb/static/js/main.77483277.chunk.js",
+    "main.js.map": "/jaffersyedweb/static/js/main.77483277.chunk.js.map",
     "runtime-main.js": "/jaffersyedweb/static/js/runtime-main.a57faeb8.js",
     "runtime-main.js.map": "/jaffersyedweb/static/js/runtime-main.a57faeb8.js.map",
     "static/css/2.47e06e2e.chunk.css": "/jaffersyedweb/static/css/2.47e06e2e.chunk.css",
     "static/js/2.36d72854.chunk.js": "/jaffersyedweb/static/js/2.36d72854.chunk.js",
     "static/js/2.36d72854.chunk.js.map": "/jaffersyedweb/static/js/2.36d72854.chunk.js.map",
     "index.html": "/jaffersyedweb/index.html",
-    "precache-manifest.384ee3207f1a0f8720c3a459767fa56e.js": "/jaffersyedweb/precache-manifest.384ee3207f1a0f8720c3a459767fa56e.js",
+    "precache-manifest.74caa866794f433f9c1dfc9563b7f2f0.js": "/jaffersyedweb/precache-manifest.74caa866794f433f9c1dfc9563b7f2f0.js",
     "service-worker.js": "/jaffersyedweb/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/jaffersyedweb/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.841e1ca5.chunk.css.map": "/jaffersyedweb/static/css/main.841e1ca5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.36d72854.chunk.js",
     "static/css/main.841e1ca5.chunk.css",
-    "static/js/main.802ef443.chunk.js"
+    "static/js/main.77483277.chunk.js"
   ]
 }
